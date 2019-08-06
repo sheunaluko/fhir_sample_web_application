@@ -1,5 +1,6 @@
 {
-  "name": "test_react",
+  "name": "fhir_sample_web_application",
+  "homepage": "https://sheunaluko.github.io/fhir_sample_web_application",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,6 +8,7 @@
     "@material-ui/icons": "^4.2.1",
     "fhir.js": "0.0.20",
     "fhirclient": "^2.1.0",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-event-timeline": "^1.6.3",
@@ -20,6 +22,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+      "onlyDeploy" : "gh-pages -d build" , 
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
