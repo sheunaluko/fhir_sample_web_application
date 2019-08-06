@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fhir_sample_web_application/static/css/main.fbe6a18d.chunk.css",
+    "main.js": "/fhir_sample_web_application/static/js/main.c1484b76.chunk.js",
+    "main.js.map": "/fhir_sample_web_application/static/js/main.c1484b76.chunk.js.map",
+    "runtime~main.js": "/fhir_sample_web_application/static/js/runtime~main.1ba393d2.js",
+    "runtime~main.js.map": "/fhir_sample_web_application/static/js/runtime~main.1ba393d2.js.map",
+    "static/js/2.7ce01dc2.chunk.js": "/fhir_sample_web_application/static/js/2.7ce01dc2.chunk.js",
+    "static/js/2.7ce01dc2.chunk.js.map": "/fhir_sample_web_application/static/js/2.7ce01dc2.chunk.js.map",
+    "index.html": "/fhir_sample_web_application/index.html",
+    "precache-manifest.77307e4f786148bb27ea86eee8872024.js": "/fhir_sample_web_application/precache-manifest.77307e4f786148bb27ea86eee8872024.js",
+    "service-worker.js": "/fhir_sample_web_application/service-worker.js",
+    "static/css/main.fbe6a18d.chunk.css.map": "/fhir_sample_web_application/static/css/main.fbe6a18d.chunk.css.map"
+  }
+}
